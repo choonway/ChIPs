@@ -1,6 +1,6 @@
 # ChIPs - Polycube/Voxel Construction Set
 
-## NPNT
+## GPGT
 
 | [magicavoxel](https://ephtracy.github.io/) | ChIPs |
 | --- | --- |
@@ -12,12 +12,34 @@ Have you wanted to use a construction set to build a model, but don't want to de
 ## Introduction
 ChIPs (Choonway's Interlocking Panels) is an open source (CC-BY 4.0) construction set system that uses interlocking finger joints between panels orientated at 0 degrees or 90 degrees with respect to each other. The resulting object has smooth surfaces on all faces, sharp edges and results in a close physical manifestation of polycube puzzles / voxel art.
 
-In the basic form there are only 4 unique pieces (5th one is for sharp corners)
-![](img/ChIPs-3Dprinted.png)
+![](img/ChIPs-37.5mm-vs-25mm-3DPrinted.png)
+
+On the left is the 37.5mm cube variant with panels colored by type. On the right is the featured cat model using 25mm cube variant with sharp corners. The dimension of the cube variant refers to the length of the side of the smallest cube.
+
+Only 4 unique panels (Blue, White, Yellow and Orange) are required for building any model. The 5th panel is optional for sharp corners. Note the sharpness of the ears between the 2 models.
+
+## Panels
+
+37.5mm cube variant
+
+| Panel | Image | .3mf | FreeCAD |
+| --- | --- | --- | --- |
+| I |
+| II |
+| III |
+| IV |
 
 ## Tutorial
 
+At first glance it might seem confusing which panels to join together to make the object, but not to worry, there is an easy way to figure it out without the use of computers.
+
+We will make use of Ephtracy's MagicaVoxel to help visualize the shapes. Once you are familiar with the system it is not necessary to rely on the software.
+
+
+
 WIP :wink:
+
+## Manufacturing
 
 ## Resources
 
