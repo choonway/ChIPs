@@ -16,24 +16,17 @@ ChIPs (Choonway's Interlocking Panels) is an open source (CC-BY 4.0) constructio
 
 On the left is the 37.5mm cube variant with panels colored by type. On the right is the featured cat model using 25mm cube variant with sharp corners. The dimension of the cube variant refers to the length of the side of the smallest cube.
 
+![](img/ChIPs-3Dprinted.png)
+
 Only 4 unique panels (Blue, White, Yellow and Orange) are required for building any model. The 5th panel is optional for sharp corners. Note the sharpness of the ears between the 2 models.
 
-## Panels
+## Guided Build Tutorial
 
-37.5mm cube variant
+At first glance it might seem confusing which panels to join together to make the object, but not to worry, there is an easy way to figure it with the use of Ephtracy's MagicaVoxel.
 
-| Panel | Image | .3mf | FreeCAD |
-| --- | --- | --- | --- |
-| I |
-| II |
-| III |
-| IV |
+Once you are familiar with the system it is not necessary to rely on the software, you can build it intuitively.
 
-## Tutorial
-
-At first glance it might seem confusing which panels to join together to make the object, but not to worry, there is an easy way to figure it out without the use of computers.
-
-We will make use of Ephtracy's MagicaVoxel to help visualize the shapes. Once you are familiar with the system it is not necessary to rely on the software.
+Here we start off with a mod
 
 
 
