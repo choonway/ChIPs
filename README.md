@@ -14,7 +14,7 @@ ChIPs (Choonway's Interlocking Panels) is an open source (CC-BY 4.0) constructio
 
 ![](img/ChIPs-37.5mm-vs-25mm-3DPrinted.png)
 
-On the left is the 37.5mm cube variant with panels colored by type. On the right is the featured cat model using 25mm cube variant with sharp corners. The dimension of the cube variant refers to the length of the side of the smallest cube.
+On the left is the 37.5mm cube variant with panels colored by type. On the right is the featured cat model using 25mm cube variant with sharp corners. The dimension of the cube variant refers to the length of the side of the unit cube.
 
 ![](img/ChIPs-3Dprinted.png)
 
@@ -24,15 +24,45 @@ Only 4 unique panels (Blue, White, Yellow and Orange) are required for building 
 
 At first glance it might seem confusing which panels to join together to make the object, but not to worry, there is an easy way to figure it with the use of Ephtracy's MagicaVoxel.
 
-Once you are familiar with the system it is not necessary to rely on the software, you can build it intuitively.
+I call this the 'bubblebath' technique.
 
-Here we start off with a mod
+![](img/tut-1.png)
+
+Here we start off with a cat voxel shape, with one voxel per unit cube.
+
+
+click on 'Fit Model Size'
+
+take note of the bounding box size X = (5, 9, 8) of the original model
+
+create the unit bubble (3D checkerboard on a 2x2x2 volume)
+
+double the size of the bubble and cat
+
+expand the bubble using the formula below
+floor(X/2)+1 = (3, 5, 5)
+Repeat x 3 y 5 z 5
+
+move the cat into the bubble, align with right, front and top faces and take one step into the bubble.
+
+In effect we are intermeshing the bubbles a half step with the cat model.
+
+click on the bubbles, then the boolean operand, the bubbles should disappear
+click on the cat model, then click on replace, a pattern should appear on the cat.
+
+Examine the patterns on the cat. They should match one of the 12 fragments.
 
 
 
-WIP :wink:
+Join all the fragments together.
+
+You have your cat.
+
+Some patterns may be be a bit tricky.
 
 ## Manufacturing
+
+WIP
 
 ## Resources
 
