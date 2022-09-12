@@ -24,7 +24,7 @@ Only 4 unique panels (Blue, White, Yellow and Orange) are required for building 
 
 At first glance it might seem confusing which panels to join together to make the object, but not to worry, there is an easy way to figure it with the use of [Ephtracy's MagicaVoxel](https://ephtracy.github.io/).
 
-I call this the 'bubblebath' technique.
+I call this the 'bubblebath' technique. vox files available [here](vox/cat_tut.vox)
 
 ![](img/tut-1.png)
 
