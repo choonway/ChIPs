@@ -2,7 +2,7 @@
 
 ## GPGT
 
-| [magicavoxel](https://ephtracy.github.io/) | ChIPs |
+| polycube/voxel | ChIPs |
 | --- | --- |
 | ![](img/magicavoxel_cat.png) | ![](img/ChIPs_cat.png) |
 
@@ -29,30 +29,42 @@ I call this the 'bubblebath' technique.
 ![](img/tut-1.png)
 
 Here we start off with a cat voxel shape, with one voxel per unit cube.
+Click on 'Fit Model Size' and take note of the bounding box size X = (5, 9, 8) of the original model
 
+![](img/tut-2.png)
 
-click on 'Fit Model Size'
+Create the unit bubble (3D checkerboard on a 2x2x2 volume)
 
-take note of the bounding box size X = (5, 9, 8) of the original model
+![](img/tut-3.png)
 
-create the unit bubble (3D checkerboard on a 2x2x2 volume)
+Double the size of the bubble and cat
 
-double the size of the bubble and cat
+![](img/tut-4.png)
 
-expand the bubble using the formula below
+Expand the bubble using the formula below
 floor(X/2)+1 = (3, 5, 5)
-Repeat x 3 y 5 z 5
 
-move the cat into the bubble, align with right, front and top faces and take one step into the bubble.
+![](img/tut-5.png)
 
-In effect we are intermeshing the bubbles a half step with the cat model.
+(grid lines shown for clarity)
+move the cat into the bubble, align with right face,
 
-click on the bubbles, then the boolean operand, the bubbles should disappear
-click on the cat model, then click on replace, a pattern should appear on the cat.
+![](img/tut-6.png)
 
-Examine the patterns on the cat. They should match one of the 12 fragments.
+and take one step into the bubble.
 
+![](img/tut-7.png)
 
+repeat for front and top faces
+In effect we are intermeshing the bubbles a half cube step with the cat model.
+
+![](img/tut-8.png)
+
+In the World View,
+click on the bubbles, then the boolean 'operand', the bubbles should disappear
+click on the cat model, then click on the boolean 'replace', a pattern should appear on the cat.
+
+Examine the patterns on the frazzled cat. They should match one of the 12 fragments.
 
 Join all the fragments together.
 
