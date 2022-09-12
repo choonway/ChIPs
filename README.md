@@ -22,7 +22,7 @@ Only 4 unique panels (Blue, White, Yellow and Orange) are required for building 
 
 ## Guided Build Tutorial
 
-At first glance it might seem confusing which panels to join together to make the object, but not to worry, there is an easy way to figure it with the use of Ephtracy's MagicaVoxel.
+At first glance it might seem confusing which panels to join together to make the object, but not to worry, there is an easy way to figure it with the use of [Ephtracy's MagicaVoxel](https://ephtracy.github.io/).
 
 I call this the 'bubblebath' technique.
 
@@ -42,12 +42,13 @@ Double the size of the bubble and cat
 ![](img/tut-4.png)
 
 Expand the bubble using the formula below
+
 floor(X/2)+1 = (3, 5, 5)
 
 ![](img/tut-5.png)
 
-(grid lines shown for clarity)
-move the cat into the bubble, align with right face,
+Grid lines shown for clarity.
+Move the cat into the bubble, align with right face,
 
 ![](img/tut-6.png)
 
@@ -55,7 +56,7 @@ and take one step into the bubble.
 
 ![](img/tut-7.png)
 
-repeat for front and top faces
+Repeat for front and top faces
 In effect we are intermeshing the bubbles a half cube step with the cat model.
 
 ![](img/tut-8.png)
@@ -71,6 +72,8 @@ Join all the fragments together.
 You have your cat.
 
 Some patterns may be be a bit tricky.
+
+It is possible, with enough practice, to build some intuition about the fragment/panels required that you can do all of this without external aids.
 
 ## Manufacturing
 
