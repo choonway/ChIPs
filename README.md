@@ -62,10 +62,14 @@ In effect we are intermeshing the bubbles a half cube step with the cat model.
 ![](img/tut-8.png)
 
 In the World View,
-click on the bubbles, then the boolean 'operand', the bubbles should disappear
-click on the cat model, then click on the boolean 'replace', a pattern should appear on the cat.
+Click on the bubbles, then the boolean 'operand', the bubbles should disappear.
+Click on the cat model, then click on the boolean 'replace', a pattern should appear on the cat.
 
 Examine the patterns on the frazzled cat. They should match one of the 12 fragments.
+
+| fragment | image | example locations on cat |
+| --- | --- | --- |
+| 1 | pic a | pic b |
 
 Join all the fragments together.
 
