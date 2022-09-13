@@ -1,6 +1,6 @@
 # ChIPs - Polycube/Voxel Construction Set
 
-## GPGT
+## [GPGT] No more SNOT. You will only need 4 types of bricks
 
 | polycube/voxel | ChIPs |
 | --- | --- |
@@ -65,11 +65,22 @@ In the World View,
 Click on the bubbles, then the boolean 'operand', the bubbles should disappear.
 Click on the cat model, then click on the boolean 'replace', a pattern should appear on the cat.
 
-Examine the patterns on the frazzled cat. They should match one of the 12 fragments.
+Examine the patterns on the frazzled cat. They should match one of the 12 fragments. vox files available [here](vox/cat_frag.vox)
 
-| fragment | image | example locations on cat |
+| fragment | ChIPs build youtube video | example locations on cat |
 | --- | --- | --- |
-| 1 | pic a | pic b |
+| 1 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=4s) | ![](img/cat-frag-1.png) |
+| 2 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=22s) | ![](img/cat-frag-2.png) |
+| 3 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=44s) | ![](img/cat-frag-3.png) |
+| 4 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=74s) | ![](img/cat-frag-4.png) |
+| 5 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=114s) | ![](img/cat-frag-5.png) |
+| 6 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=145s) | ![](img/cat-frag-6.png) |
+| 7 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=176s) | ![](img/cat-frag-7.png) |
+| 8 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=211s) | ![](img/cat-frag-8.png) |
+| 9 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=269s) | ![](img/cat-frag-9.png) |
+| 10 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=314s) | ![](img/cat-frag-10.png) |
+| 11 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=360s) | ![](img/cat-frag-11.png) |
+| 12 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=413s) | ![](img/cat-frag-12.png) |
 
 Join all the fragments together.
 
