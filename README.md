@@ -88,23 +88,39 @@ Join all the fragments together and you have your cat.
 
 It is possible, with enough practice, to build some intuition about the fragment/panels required that you can do all of this without external aids.
 
-## Tiny Table
+## Tiny Table build video
 
-A full build of a tiny table on youtube. vox files available [here](vox/table.vox)
+A full build of a tiny table on youtube. Click on the image below to follow the link onto youtube.
 
-![](img/table-example.png)
+[![](img/table-example.png)](https://www.youtube.com/watch?v=VmErPDY7BgU)
+
+vox files available [here](vox/table.vox)
+
+## Other Examples
+
+![](img/ChIPs-25mm-3DPrinted.png)
+
+An assortment of shapes using 25mm cube variant.
+
+![](img/ChIPs-37.5mm-3DPrinted.png)
+
+An assortment of shapes using 37.5mm basic cube variant.
 
 ## Manufacturing
 
-WIP
+STL files are available for both 37.5mm and 25mm basic cube variants. If you want to build your own variant, parametric FreeCAD files are available. Look through the spreadsheet to adjust parameters.
+
+The panels were designed to be printed in Vase mode, and printed in an array where each panel is printed completely before moving on to the next. The .3mf file to do this was done using PrusaSlicer.
+
+The generated .gcode files are meant for PrusaMini+ printing using PLA. If you want to change materials you will have to go back to edit the .3mf file
+
+Click on this [link](https://www.youtube.com/watch?v=LtgmES9rL5E) to see the print process of the 37.5mm variant panel 4. Note that this printing was done extremely conservatively - you can speed things up by editing the .3mf file
+
+On the other hand the precompiled .gcode for the 25mm variant is done at full speed. If you have problems you can dial back the speed, or look at different brands/colors of filaments.
+
+[Harvesting](https://www.youtube.com/watch?v=6bc6--hOfok) the panels.
 
 ## Resources
-
-See the following websites for more information:
-
-https://www.thingiverse.com/thing:5376746
-
-https://www.printables.com/model/192718-chips-polycube-construction-set
 
 https://www.youtube.com/channel/UC7Iy1mVaFCpzOD8v4n6sJXQ
 
