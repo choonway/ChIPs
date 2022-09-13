@@ -108,7 +108,11 @@ An assortment of shapes using 37.5mm basic cube variant.
 
 ## Manufacturing
 
-STL files are available for both 37.5mm and 25mm basic cube variants. If you want to build your own variant, parametric FreeCAD files are available. Look through the spreadsheet to adjust parameters.
+STL files are available for both 37.5mm and 25mm basic cube variants.
+
+![](img/ChIPs-FreeCAD-screenshot.png)
+
+If you want to build your own variant, parametric FreeCAD files are available. Look through the spreadsheet to adjust parameters.
 
 The panels were designed to be printed in Vase mode, and printed in an array where each panel is printed completely before moving on to the next. The .3mf file to do this was done using PrusaSlicer.
 
