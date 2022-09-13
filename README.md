@@ -69,26 +69,30 @@ Examine the patterns on the frazzled cat. They should match one of the 12 fragme
 
 | fragment | ChIPs build youtube video | example locations on cat |
 | --- | --- | --- |
-| 1 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=4s) | ![](img/cat-frag-1.png) |
-| 2 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=22s) | ![](img/cat-frag-2.png) |
-| 3 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=44s) | ![](img/cat-frag-3.png) |
-| 4 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=74s) | ![](img/cat-frag-4.png) |
-| 5 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=114s) | ![](img/cat-frag-5.png) |
-| 6 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=145s) | ![](img/cat-frag-6.png) |
-| 7 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=176s) | ![](img/cat-frag-7.png) |
-| 8 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=211s) | ![](img/cat-frag-8.png) |
-| 9 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=269s) | ![](img/cat-frag-9.png) |
-| 10 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=314s) | ![](img/cat-frag-10.png) |
-| 11 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=360s) | ![](img/cat-frag-11.png) |
-| 12 | [link](https://www.youtube.com/watch?v=te_LA7-NAmI&t=413s) | ![](img/cat-frag-12.png) |
+| 1 | [0:04](https://www.youtube.com/watch?v=te_LA7-NAmI&t=4s) | ![](img/cat-frag-1.png) |
+| 2 | [0:22](https://www.youtube.com/watch?v=te_LA7-NAmI&t=22s) | ![](img/cat-frag-2.png) |
+| 3 | [0:44](https://www.youtube.com/watch?v=te_LA7-NAmI&t=44s) | ![](img/cat-frag-3.png) |
+| 4 | [1:14](https://www.youtube.com/watch?v=te_LA7-NAmI&t=74s) | ![](img/cat-frag-4.png) |
+| 5 | [1:54](https://www.youtube.com/watch?v=te_LA7-NAmI&t=114s) | ![](img/cat-frag-5.png) |
+| 6 | [2:25](https://www.youtube.com/watch?v=te_LA7-NAmI&t=145s) | ![](img/cat-frag-6.png) |
+| 7 | [2:56](https://www.youtube.com/watch?v=te_LA7-NAmI&t=176s) | ![](img/cat-frag-7.png) |
+| 8 | [3:31](https://www.youtube.com/watch?v=te_LA7-NAmI&t=211s) | ![](img/cat-frag-8.png) |
+| 9 | [4:29](https://www.youtube.com/watch?v=te_LA7-NAmI&t=269s) | ![](img/cat-frag-9.png) |
+| 10 | [5:14](https://www.youtube.com/watch?v=te_LA7-NAmI&t=314s) | ![](img/cat-frag-10.png) |
+| 11 | [6:00](https://www.youtube.com/watch?v=te_LA7-NAmI&t=360s) | ![](img/cat-frag-11.png) |
+| 12 | [6:53](https://www.youtube.com/watch?v=te_LA7-NAmI&t=413s) | ![](img/cat-frag-12.png) |
 
-Join all the fragments together.
+Fragments 11 and 12 are not used by the cat model. They can be tricky to identify especially if visibility on the opposite diagonal end is limited and be mistaken for Fragments 2 or 4.
 
-You have your cat.
-
-Some patterns may be be a bit tricky.
+Join all the fragments together and you have your cat.
 
 It is possible, with enough practice, to build some intuition about the fragment/panels required that you can do all of this without external aids.
+
+## Tiny Table
+
+A full build of a tiny table on youtube. vox files available [here](vox/table.vox)
+
+![](img/table-example.png)
 
 ## Manufacturing
 
